@@ -3,7 +3,7 @@ baseurl: "https://dbdhuri.github.io/poojadhuri.github.io/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+#google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Art by Pooja"
