@@ -6,14 +6,14 @@ image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Art by Pooja"
+title: "Art by Pooja D Dhuri"
 subtitle: ""
 author: "Pooja Dattaraj Dhuri"
 header:
  title: "Art"
- subtitle: "by Pooja"
+ subtitle: "by Pooja D Dhuri"
 footer:
- name: "Hi, I am Pooja"
+ name: "Hi, I am Pooja Dhuri"
  bio: "I am a visual artist from Mumbai, India. This is a selection of my artworks. Feel free to get in touch to know more."
  github: ""
 web_design: "AJ, Ram Patra"
