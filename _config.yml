@@ -13,8 +13,8 @@ header:
  title: "Art"
  subtitle: "by Pooja"
 footer:
- name: "Hi I am Pooja"
- bio: "I am a painter and a photographer. This is my portfolio."
+ name: "Hi, I am Pooja"
+ bio: "I am a visual artist from Mumbai, India. This is a selection of my artworks. Feel free to get in touch to know more."
  github: ""
 web_design: "AJ, Ram Patra"
 # Configure which exif data to display
